@@ -1,1 +1,1 @@
-![Package Diagram UML](https://github.com/XiangWang2Fly/Skynet-Design-Doc/blob/master/png/PackageDiagram.png)
+![Loading Package UML Diagram](https://github.com/XiangWang2Fly/Skynet-Design-Doc/blob/master/png/PackageDiagram.png)
